@@ -8,7 +8,7 @@ import os
 # ===========================
 # CONFIGURATION
 # ===========================
-CAMERA_IP = "192.168.222.251"  # Replace with your ESP32-CAM IP
+CAMERA_IP = "192.168.222.183"  # Replace with your ESP32-CAM IP
 MODEL_PATH = "model/lidar_model_60points.keras"
 ENCODER_PATH = "model/label_encoder_60points.pkl"
 
