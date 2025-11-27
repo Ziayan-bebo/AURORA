@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, render_template_string
 import numpy as np
-# import tensorflow as tf
+import tensorflow as tf
 import joblib
 import time
 import os
