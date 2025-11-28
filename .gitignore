@@ -1,0 +1,15 @@
+# Ignore Python envs
+venv/
+tf_env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore TensorFlow model files
+model/*.keras
+model/*.pkl
+
+# Ignore `.vscode` settings
+.vscode/
